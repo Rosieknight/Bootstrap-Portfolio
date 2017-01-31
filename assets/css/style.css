@@ -1,18 +1,93 @@
+
+
 .paper{
 	background-image:url("../images/fabric.png");
 }
 
+.big{
+	background-color: ; 
+}
+
 .icon{
 	display: inline;
+	height: 40px;
+	width: 40px;
+	padding:3px;
+}
+
+.lin{
+	height: 40px;
+	width: 40px;
+	padding: 1px;
+}
+
+a:hover .gth{
+	background-color: #b3a959;
+	border: 2px solid #4aaaa5;
+}
+
+a:hover .lin{
+	background-color: #e6e6e6;
+	border: 2px solid #4aaaa5;
+}
+
+a:hover .sof{
+	background-color: #4aaaa5; 
+	border: 2px solid #666666;
+	padding: 2px;
 }
 
 .blue{
 	border: 2px solid #84AED3;
 }
 
-
 .me{
 	padding:0;
+}
+
+.main{
+	margin: 2px;
+}
+
+.projects{
+	width: 25em;
+	height: 10em;
+	padding:0;
+	background-size: 100% auto;
+	position: relative;
+	margin: .75%;
+}
+
+.projects p{
+	margin-top:15%;
+}
+
+.hangman{
+	background-image: url("../images/wirecoil.jpg");
+}
+
+.rpg{
+	background-image: url("../images/pad.jpg");
+}
+
+.trivia{
+	background-image: url("../images/headphones.jpg");
+}
+
+.widget{
+	background-image: url("../images/switches.jpg");
+}
+
+.roshambo{
+	background-image: url("../images/machine.jpg");
+}
+
+form{
+	padding-bottom:3px;
+}
+
+footer{
+	border-top: 2px solid #e6e6e6;;
 }
 
 body { padding-top: 50px; }
