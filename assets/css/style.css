@@ -41,6 +41,10 @@ a:hover .sof{
 	border: 2px solid #84AED3;
 }
 
+.pics{ 
+	background-image: url("../images/birthday.jpg");
+}
+
 .me{
 	padding:0%;
 	background-size: 100% auto;
@@ -48,10 +52,6 @@ a:hover .sof{
 	height: 15em;
 	margin-right: .75%;
 	border-width: 2.5px;
-}
-
-.pics{ 
-	background-image: url("../images/birthday.jpg");
 }
 
 .main{
