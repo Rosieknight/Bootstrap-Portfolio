@@ -42,7 +42,13 @@ a:hover .sof{
 }
 
 .me{
-	padding:0;
+	padding:0%;
+	background-image: url("../images/birthday.jpg");
+	background-size: 100% auto;
+	width: 25em;
+	height: 15em;
+	margin-right: .75%;
+	border-width: 2.5px;
 }
 
 .main{
