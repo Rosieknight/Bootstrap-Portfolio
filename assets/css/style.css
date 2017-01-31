@@ -54,6 +54,10 @@ a:hover .sof{
 	border-width: 2.5px;
 }
 
+.pics{
+	background-image: url("../images/birthday.JPG");
+}
+
 .main{
 	margin: 2px;
 }
