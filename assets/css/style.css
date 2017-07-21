@@ -72,6 +72,11 @@ a:hover .sof{
 	margin-top:15%;
 	position:absolute;
 	width: 100%;
+	color: #fafdff !important;
+}
+
+.projects a{
+	color: #fafdff !important;
 }
 
 .hangman{
