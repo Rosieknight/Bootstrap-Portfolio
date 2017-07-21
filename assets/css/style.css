@@ -79,7 +79,7 @@ a:hover .sof{
 	background-repeat: no-repeat;
 }
 
-.rpg{
+.liri{
 	background-image: url("../images/pad.jpg");
 	background-repeat: no-repeat;
 }
@@ -89,13 +89,18 @@ a:hover .sof{
 	background-repeat: no-repeat;
 }
 
-.widget{
+.marvel{
 	background-image: url("../images/switches.jpg");
 	background-repeat: no-repeat;
 }
 
-.roshambo{
+.burgers{
 	background-image: url("../images/machine.jpg");
+	background-repeat: no-repeat;
+}
+
+.lastbot{
+	background-image: url("../images/newyork.jpg");
 	background-repeat: no-repeat;
 }
 
